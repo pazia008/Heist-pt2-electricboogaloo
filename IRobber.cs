@@ -3,7 +3,7 @@ using System;
 
 namespace Heisting
 {
-    public interface IRobot
+    public interface IRobber
     {
         string Name { get; set; }
         int SkillLevel { get; set; }
