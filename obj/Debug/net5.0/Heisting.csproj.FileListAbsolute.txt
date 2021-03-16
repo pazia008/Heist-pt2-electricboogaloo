@@ -1,0 +1,16 @@
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.exe
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.deps.json
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.runtimeconfig.json
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.runtimeconfig.dev.json
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.dll
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\ref\Heisting.dll
+C:\Users\pazia\workspace\Heisting\bin\Debug\net5.0\Heisting.pdb
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.csprojAssemblyReference.cache
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.AssemblyInfoInputs.cache
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.AssemblyInfo.cs
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.csproj.CoreCompileInputs.cache
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.dll
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\ref\Heisting.dll
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.pdb
+C:\Users\pazia\workspace\Heisting\obj\Debug\net5.0\Heisting.genruntimeconfig.cache
